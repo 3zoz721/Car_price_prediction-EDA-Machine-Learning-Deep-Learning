@@ -43,5 +43,5 @@ This project aims to predict car prices using a comprehensive data analysis pipe
 
 ## Author
 
-*Abdulaziz Mohammed Al-Qarni*  
+*Abdulaziz Mohammed Alqarni*  
 Data Analyst | AI & Deep Learning Enthusiast
